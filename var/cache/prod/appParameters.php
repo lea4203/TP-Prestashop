@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'lea42_prestashopKpop',
+    'database_user' => 'lea42',
+    'database_password' => 'Leamerley3.',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'Uwx4xJDYHIWabFIuRM2bfRTTcqpRu5Iafr3iS7u4suAb2xjmDwDyjF9SaTCi1zcM',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2023-11-13',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'v3nuEiRpz4zYbIn3yLcg5qyNPNwk34EvSEjuzhyXWPRzia5rZvg8LLv1pz0Dpcpi',
+    'cookie_iv' => '6frzI2DkjKRnOTIhzWNyLdjtEu7ASZZd',
+    'new_cookie_key' => 'def00000622db208c1e4103eba936e8e0b80d492639fbda9f760d419477e9d9257b79b014185128beee5d2c98457d43c1d0b0b2d1bcb788236a779b1e5bbdcca1e0b3bbb',
+  ),
+);
